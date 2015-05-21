@@ -1,6 +1,6 @@
 // JavaScript Document
 $(document).ready(function(e) {
-//document.addEventListener("deviceready",function(){
+document.addEventListener("deviceready",function(){
 	
 
 $('#btncalcular').on ('click', function(){
@@ -52,8 +52,7 @@ fecha_actual = new Date (fecha_actual.getFullYear(),fecha_actual.getMonth(),fech
 	
 		 
 
-
-//}); 
+}); 
 
 
   
